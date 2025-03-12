@@ -1,0 +1,123 @@
+
+
+
+
+
+.navigation {
+  text-decoration: none;
+  background-color: rgb(163, 207, 161);
+  color: black;
+  font-size: 28px;
+  font-family: "Chewy"; 
+  padding: 3px 8px 6px 8px;
+  word-spacing: 10px;
+}
+
+ol {
+  font-size: 20px;
+  padding-left: 200px;
+}
+
+body {
+  color: black;
+  font-family: monospace;
+  font-size: 15px;
+  background-size: cover;
+  background-image: url("rm184-katie-50.jpg");
+}
+
+h1 {
+  font-family: "monospace"; 
+  font-size: 45px;
+  text-decoration-line: underline;
+  text-indent: 25px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #084708; 
+  float: left; 
+  padding-bottom: 4px;
+  padding-top: 1px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+h5 {
+  font-size: 25px;
+  text-indent: 20px;
+}
+
+p {
+  font-size: 24px;
+  text-indent: 20px;
+}
+
+.p1 {
+  font-size: 20px;
+  text-indent: 40px;
+}
+
+.in {
+  text-indent: 100px;
+}
+
+.cite {
+  font-size: 10px;
+}
+
+a {
+  color: black;
+  font-family: serif;
+  font-size: 20px; 
+  text-decoration: none;
+}
+
+hr {
+  border-color: black;
+}
+
+.story {
+  padding-left: 20px;
+  padding-right: 200px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.story1 {
+  padding-left: 20px;
+  padding-right: 200px;
+  text-indent: 80px;
+  padding-bottom: 30px;
+}
+
+.poem {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  text-indent: 0;
+}
+
+.img2 {
+  height: 200px;
+  width: auto;
+  border-radius: 5px;
+  border: 2px solid black; 
+  float: right;
+  margin-top: -50px;
+  margin-right: 50px;
+  object-fit: contain;
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>
